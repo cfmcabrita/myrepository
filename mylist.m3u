@@ -66,6 +66,10 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 #EXTINF:-1 tvg-id="Odisseia" tvg-logo="Odisseia.png" group-title="CC",028-Odisseia
 #EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="CC",029-Historia
 
+
+
+#EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="CC",030-Abola TV
+http://selling01.ddns.net:8000/live/sasa/sasa/6040.ts
 #EXTINF:-1 tvg-id="Sporting TV" tvg-logo="Sporting TV.png" group-title="CC",030-Sporting TV
 http://selling01.ddns.net:8000/live/sasa/sasa/6033.ts
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="Eurosport 1.png" group-title="CC",031-Eurosport 1
