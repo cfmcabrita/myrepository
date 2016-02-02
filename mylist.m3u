@@ -4,28 +4,35 @@ http://0.0.0.0:1234 (ARGIVAI)
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="CC",001-RTP 1
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
+
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="CC",002-RTP 2
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
+
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" tvg-logo="SIC.png" group-title="CC",003-SIC
 http://selling01.ddns.net:8000/live/sasa/sasa/5981.ts 
 
-
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="CC",004-TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp informaçao.png" group-title="CC",005-RTP 3 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
+
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="CC",006-SIC NOTICIAS
 http://selling01.ddns.net:8000/live/sasa/sasa/5994.ts
+
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="CC",007-TVI 24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="CC",008-CMTV 
 http://selling01.ddns.net:8000/live/sasa/sasa/5985.ts
 
-
 #EXTINF:-1 tvg-id="SIC Radical" tvg-logo="SIC Radical.png" group-title="CC",009-SIC Radical
 http://selling01.ddns.net:8000/live/sasa/sasa/5993.ts
+
 #EXTINF:-1 tvg-id="SIC Mulher" tvg-logo="SIC Mulher.png" group-title="CC",010-SIC Mulher
+
 #EXTINF:-1 tvg-id="Porto Canal" tvg-logo="Porto Canal.png" group-title="CC",011-Porto Canal
+
 #EXTINF:-1 tvg-id="Economico" tvg-logo="Economico.png" group-title="CC",012-Economico
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
@@ -34,12 +41,12 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
 #EXTINF:-1 tvg-id="RTP Memoria" tvg-logo="RTP Memoria.png" group-title="CC",014-RTP Memoria
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15
+
 #EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="RTP Madeira.png" group-title="CC",015-RTP Madeira
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
+
 #EXTINF:-1 tvg-id="RTP Açores" tvg-logo="RTP Açores" group-title="CC",016-RTP Açores
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
-
-
 
 #EXTINF:-1 tvg-id="RTP Africa" tvg-logo="RTP Africa" group-title="CC",017-RTP Africa
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
@@ -47,116 +54,156 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl
 #EXTINF:-1 tvg-id="RTP Int" tvg-logo="RTP Int" group-title="CC",018-RTP Int
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
 
+#EXTINF:-1 tvg-id="Holllywood" tvg-logo="Holllywood.png" group-title="CC",019-Holllywood
 
+#EXTINF:-1 tvg-id="AXN Black" tvg-logo="AXN Black.png" group-title="CC",020-AXN Black
 
+#EXTINF:-1 tvg-id="AXN" tvg-logo="AXN.png" group-title="CC",021-AXN
 
-#EXTINF:-1 tvg-id="Holllywood" tvg-logo="Holllywood.png" group-title="CC",017-Holllywood
-#EXTINF:-1 tvg-id="AXN Black" tvg-logo="AXN Black.png" group-title="CC",018-AXN Black
-#EXTINF:-1 tvg-id="AXN" tvg-logo="AXN.png" group-title="CC",019-AXN
-#EXTINF:-1 tvg-id="MOV" tvg-logo="MOV.png" group-title="CC",020-MOV
-#EXTINF:-1 tvg-id="FOX" tvg-logo="FOX.png" group-title="CC",021-FOX
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="FOX LIFE.png" group-title="CC",022-FOX LIFE
-#EXTINF:-1 tvg-id="TLC" tvg-logo="TLC.png" group-title="CC",023-TLC
-#EXTINF:-1 tvg-id="A&E" tvg-logo="A&E.png" group-title="CC",024-A&E
-#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="24Kitchen.png" group-title="CC",025-24Kitchen
+#EXTINF:-1 tvg-id="MOV" tvg-logo="MOV.png" group-title="CC",022-MOV
 
+#EXTINF:-1 tvg-id="FOX" tvg-logo="FOX.png" group-title="CC",023-FOX
 
-#EXTINF:-1 tvg-id="Discovery" tvg-logo="Discovery.png" group-title="CC",026-Discovery
-#EXTINF:-1 tvg-id="National Geographic" tvg-logo="National Geographic.png" group-title="CC",027-National Geographic
-#EXTINF:-1 tvg-id="Odisseia" tvg-logo="Odisseia.png" group-title="CC",028-Odisseia
-#EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="CC",029-Historia
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="FOX LIFE.png" group-title="CC",024-FOX LIFE
 
+#EXTINF:-1 tvg-id="TLC" tvg-logo="TLC.png" group-title="CC",025-TLC
 
+#EXTINF:-1 tvg-id="A&E" tvg-logo="A&E.png" group-title="CC",026-A&E
 
-#EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="CC",030-Abola TV
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="24Kitchen.png" group-title="CC",027-24Kitchen
+
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="Discovery.png" group-title="CC",028-Discovery
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="National Geographic.png" group-title="CC",029-National Geographic
+
+#EXTINF:-1 tvg-id="Odisseia" tvg-logo="Odisseia.png" group-title="CC",030-Odisseia
+
+#EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="CC",031-Historia
+
+#EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="CC",032-Abola TV
 http://selling01.ddns.net:8000/live/sasa/sasa/6040.ts
-#EXTINF:-1 tvg-id="Sporting TV" tvg-logo="Sporting TV.png" group-title="CC",030-Sporting TV
+
+#EXTINF:-1 tvg-id="Sporting TV" tvg-logo="Sporting TV.png" group-title="CC",033-Sporting TV
 http://selling01.ddns.net:8000/live/sasa/sasa/6033.ts
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="Eurosport 1.png" group-title="CC",031-Eurosport 1
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="Eurosport 2.png" group-title="CC",032-Eurosport 2
-#EXTINF:-1 tvg-id="Fuel TV" tvg-logo="Fuel TV.png" group-title="CC",033-Fuel TV
 
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="Eurosport 1.png" group-title="CC",034-Eurosport 1
 
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="Eurosport 2.png" group-title="CC",035-Eurosport 2
 
-#EXTINF:-1 tvg-id="VH1" tvg-logo="VH1.png" group-title="CC",034-VH1
-#EXTINF:-1 tvg-id="MCM" tvg-logo="24Kitchen.png" group-title="CC",035-MCM
+#EXTINF:-1 tvg-id="Fuel TV" tvg-logo="Fuel TV.png" group-title="CC",036-Fuel TV
 
+#EXTINF:-1 tvg-id="VH1" tvg-logo="VH1.png" group-title="CC",037-VH1
 
+#EXTINF:-1 tvg-id="MCM" tvg-logo="24Kitchen.png" group-title="CC",038-MCM
 
-#EXTINF:-1 tvg-id="Travel" tvg-logo="Travel.png" group-title="CC",036-Travel
-#EXTINF:-1 tvg-id="Fox Crime" tvg-logo="Fox Crime.png" group-title="CC",037-Fox Crime
-#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="Fox Movies.png" group-title="CC",038-Fox Movies
-#EXTINF:-1 tvg-id="Fox Comedy" tvg-logo="Fox Comedy.png" group-title="CC",039-Fox Comedy
-#EXTINF:-1 tvg-id="SyFy" tvg-logo="SyFy.png" group-title="CC",039-SyFy#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="Fox Movies.png" group-title="CC",040-Fox Movies
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="Nat Geo Wild.png" group-title="CC",041-Nat Geo Wild
-#EXTINF:-1 tvg-id="TVC1" tvg-logo="TVC1.png" group-title="CC",042-TVC1
-#EXTINF:-1 tvg-id="TVC2" tvg-logo="TVC2.png" group-title="CC",043-TVC2
-#EXTINF:-1 tvg-id="TVC3" tvg-logo="TVC3.png" group-title="CC",044-TVC3
-#EXTINF:-1 tvg-id="TVC4" tvg-logo="TVC4.png" group-title="CC",045-TVC4
-#EXTINF:-1 tvg-id="TVC5" tvg-logo="TVC5.png" group-title="CC",046-TVC5
-#EXTINF:-1 tvg-id="AXN White" tvg-logo="AXN White.png" group-title="CC",047-AXN White
-#EXTINF:-1 tvg-id="FTV" tvg-logo="FTV.png" group-title="CC",048-FTV
-#EXTINF:-1 tvg-id="M4 SPORT" tvg-logo="M4 SPORT.png" group-title="CC",049-M4 SPORT
+#EXTINF:-1 tvg-id="Travel" tvg-logo="Travel.png" group-title="CC",039-Travel
+
+#EXTINF:-1 tvg-id="Fox Crime" tvg-logo="Fox Crime.png" group-title="CC",040-Fox Crime
+
+#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="Fox Movies.png" group-title="CC",041-Fox Movies
+
+#EXTINF:-1 tvg-id="Fox Comedy" tvg-logo="Fox Comedy.png" group-title="CC",042-Fox Comedy
+
+#EXTINF:-1 tvg-id="SyFy" tvg-logo="SyFy.png" group-title="CC",043-SyFy
+
+#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="Fox Movies.png" group-title="CC",044-Fox Movies
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="Nat Geo Wild.png" group-title="CC",045-Nat Geo Wild
+
+#EXTINF:-1 tvg-id="TVC1" tvg-logo="TVC1.png" group-title="CC",046-TVC1
+
+#EXTINF:-1 tvg-id="TVC2" tvg-logo="TVC2.png" group-title="CC",047-TVC2
+
+#EXTINF:-1 tvg-id="TVC3" tvg-logo="TVC3.png" group-title="CC",048-TVC3
+
+#EXTINF:-1 tvg-id="TVC4" tvg-logo="TVC4.png" group-title="CC",049-TVC4
+
+#EXTINF:-1 tvg-id="TVC5" tvg-logo="TVC5.png" group-title="CC",050-TVC5
+
+#EXTINF:-1 tvg-id="AXN White" tvg-logo="AXN White.png" group-title="CC",051-AXN White
+
+#EXTINF:-1 tvg-id="FTV" tvg-logo="FTV.png" group-title="CC",052-FTV
+
+#EXTINF:-1 tvg-id="M4 SPORT" tvg-logo="M4 SPORT.png" group-title="CC",053-M4 SPORT
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RETE SPORT 8" tvg-logo="RETE SPORT 8.png" group-title="CC",050-RETE SPORT 8 (ITA)
+
+#EXTINF:-1 tvg-id="RETE SPORT 8" tvg-logo="RETE SPORT 8.png" group-title="CC",054-RETE SPORT 8 (ITA)
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 
-#EXTINF:-1 tvg-id="Sport Max" tvg-logo="Sport Max.png" group-title="CC",051-Sport Max (UK)
+#EXTINF:-1 tvg-id="Sport Max" tvg-logo="Sport Max.png" group-title="CC",055-Sport Max (UK)
 http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-#EXTINF:-1 tvg-id="TELEKANAL" tvg-logo="TELEKANAL.png" group-title="CC",052-TELEKANAL(RUS)
+
+#EXTINF:-1 tvg-id="TELEKANAL" tvg-logo="TELEKANAL.png" group-title="CC",056-TELEKANAL(RUS)
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-#EXTINF:-1 tvg-id="SportTV1" tvg-logo="SportTV1.png" group-title="CC",053-SportTV1
+
+#EXTINF:-1 tvg-id="SportTV1" tvg-logo="SportTV1.png" group-title="CC",057-SportTV1
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="SportTV2" tvg-logo="SportTV2.png" group-title="CC",054-SportTV2
+
+#EXTINF:-1 tvg-id="SportTV2" tvg-logo="SportTV2.png" group-title="CC",058-SportTV2
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="SportTV3" tvg-logo="SportTV3.png" group-title="CC",055-SportTV3 / BTV2
+
+#EXTINF:-1 tvg-id="SportTV3" tvg-logo="SportTV3.png" group-title="CC",059-SportTV3 / BTV2
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="SportTV4" tvg-logo="SportTV4.png" group-title="CC",056-SportTV4
+
+#EXTINF:-1 tvg-id="SportTV4" tvg-logo="SportTV4.png" group-title="CC",060-SportTV4
 http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 tvg-id="SportTV5" tvg-logo="SportTV5.png" group-title="CC",057-SportTV5
+
+#EXTINF:-1 tvg-id="SportTV5" tvg-logo="SportTV5.png" group-title="CC",061-SportTV5
 mms://100automoto.tv/100livesport
-#EXTINF:-1 tvg-id="BTV1" tvg-logo="BTV1.png" group-title="CC",058-BTV1
+
+#EXTINF:-1 tvg-id="BTV1" tvg-logo="BTV1.png" group-title="CC",062-BTV1
 http://91.204.214.106:23201/stolen/250l/xenixos.7z
-#EXTINF:-1 tvg-id="BTV2" tvg-logo="BTV2.png" group-title="CC",059-BTV2
+
+#EXTINF:-1 tvg-id="BTV2" tvg-logo="BTV2.png" group-title="CC",063-BTV2
 http://91.204.214.106:23201/stolen/233w/xenixos.7z
-#EXTINF:-1 tvg-id="Turkmen Sport" tvg-logo="Turkmen Sport.png" group-title="CC",060-Turkmen Sport (TUR)
+
+#EXTINF:-1 tvg-id="Turkmen Sport" tvg-logo="Turkmen Sport.png" group-title="CC",064-Turkmen Sport (TUR)
 http://tv.online.tm/hls/ch004_md/index.m3u8
-#EXTINF:-1 tvg-id="Sport 1" tvg-logo="Sport 1.png" group-title="CC",061-Sport 1 (RUS)
+
+#EXTINF:-1 tvg-id="Sport 1" tvg-logo="Sport 1.png" group-title="CC",065-Sport 1 (RUS)
 http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV Sport" tvg-logo="NTV Sport.png" group-title="CC",062-NTV Sport (RUS)
+
+#EXTINF:-1 tvg-id="NTV Sport" tvg-logo="NTV Sport.png" group-title="CC",066-NTV Sport (RUS)
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="VIASAT Sport Baltic" tvg-logo="VIASAT Sport Baltic.png" group-title="CC",063-VIASAT Sport Baltic (RUS)
+
+#EXTINF:-1 tvg-id="VIASAT Sport Baltic" tvg-logo="VIASAT Sport Baltic.png" group-title="CC",067-VIASAT Sport Baltic (RUS)
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport TV" tvg-logo="Sport TV.png" group-title="CC",064-Sport TV (BRA)
+
+#EXTINF:-1 tvg-id="Sport TV" tvg-logo="Sport TV.png" group-title="CC",068-Sport TV (BRA)
 http://srvlon1.hostseven.org:1935/live/201020/livestream.m3u8
-#EXTINF:-1 tvg-id="Sport TV" tvg-logo="Sport TV.png" group-title="CC",065-Sport TV (BRA)
+
+#EXTINF:-1 tvg-id="Sport TV" tvg-logo="Sport TV.png" group-title="CC",069-Sport TV (BRA)
 rtmp://live-cdn.direct-stream.org:1935/liverepeat playpath=201020 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf pageUrl=http://www.ppcast.net/
 
-#EXTINF:-1 tvg-id="PREMIERE 1" tvg-logo="PREMIERE 1.png" group-title="CC",066-PREMIERE 1 (BRA)
+#EXTINF:-1 tvg-id="PREMIERE 1" tvg-logo="PREMIERE 1.png" group-title="CC",070-PREMIERE 1 (BRA)
 http://srvlon1.hostseven.org:1935/live/fut01/livestream.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="PREMIERE 2.png" group-title="CC",066-PREMIERE 2 (BRA)
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="PREMIERE 2.png" group-title="CC",071-PREMIERE 2 (BRA)
 http://srvlon1.hostseven.org:1935/live/fut02/livestream.m3u8
 
-
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="PREMIERE 6.png" group-title="CC",067-PREMIERE 6 (BRA)
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="PREMIERE 6.png" group-title="CC",072-PREMIERE 6 (BRA)
 http://srvlon1.hostseven.org:1935/live/fut09/livestream.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="PREMIERE 7.png" group-title="CC",067-PREMIERE 7 (BRA)
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="PREMIERE 7.png" group-title="CC",073-PREMIERE 7 (BRA)
 http://srvlon1.hostseven.org:1935/live/fut1022842/livestream.m3u8
 
-#EXTINF:-1 tvg-id="BIG POUND" tvg-logo="BIG POUND.png" group-title="CC",068-BIG POUND (AUS)
+#EXTINF:-1 tvg-id="BIG POUND" tvg-logo="BIG POUND.png" group-title="CC",074-BIG POUND (AUS)
 mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
-#EXTINF:-1 tvg-id="NBC SPORTS GOLF" tvg-logo="NBC SPORTS GOLF.png" group-title="CC",069-NBC SPORTS GOLF (USA)
+
+#EXTINF:-1 tvg-id="NBC SPORTS GOLF" tvg-logo="NBC SPORTS GOLF.png" group-title="CC",075-NBC SPORTS GOLF (USA)
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-#EXTINF:-1 tvg-id="Sport Time TV2" tvg-logo="Sport Time TV2.png" group-title="CC",070-Sport Time TV2 (ALE)
+#EXTINF:-1 tvg-id="Sport Time TV2" tvg-logo="Sport Time TV2.png" group-title="CC",076-Sport Time TV2 (ALE)
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
 
-#EXTINF:-1 tvg-id="PAC MOUNTAIN HD" tvg-logo="PAC MOUNTAIN HD.png" group-title="CC",071-PAC MOUNTAIN HD (USA)
+#EXTINF:-1 tvg-id="PAC MOUNTAIN HD" tvg-logo="PAC MOUNTAIN HD.png" group-title="CC",077-PAC MOUNTAIN HD (USA)
 http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 tvg-id="PAC OREGON HD" tvg-logo="PAC OREGON HD.png" group-title="CC",072-PAC OREGON HD (USA)
+
+#EXTINF:-1 tvg-id="PAC OREGON HD" tvg-logo="PAC OREGON HD.png" group-title="CC",078-PAC OREGON HD (USA)
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 
-#EXTINF:-1 tvg-id="HOT" tvg-logo="HOT.png" group-title="CC",060-HOT
-#EXTINF:-1 tvg-id="Playboy" tvg-logo="BTV2.png" group-title="CC",061-Playboy
-#EXTINF:-1 tvg-id="Penthouse" tvg-logo="Penthouse.png" group-title="CC",062-Penthouse
+#EXTINF:-1 tvg-id="HOT" tvg-logo="HOT.png" group-title="CC",079-HOT
+
+#EXTINF:-1 tvg-id="Playboy" tvg-logo="BTV2.png" group-title="CC",080-Playboy
+
+#EXTINF:-1 tvg-id="Penthouse" tvg-logo="Penthouse.png" group-title="CC",081-Penthouse
