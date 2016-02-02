@@ -23,6 +23,7 @@ http://hyper.de1-eu.com:8000/live/tiago/tiago/671.m3u8
 
 
 #EXTINF:-1 tvg-id="SIC Radical" tvg-logo="SIC Radical.png" group-title="CC",009-SIC Radical
+http://selling01.ddns.net:8000/live/sasa/sasa/5993.ts
 #EXTINF:-1 tvg-id="SIC Mulher" tvg-logo="SIC Mulher.png" group-title="CC",010-SIC Mulher
 #EXTINF:-1 tvg-id="Porto Canal" tvg-logo="Porto Canal.png" group-title="CC",011-Porto Canal
 #EXTINF:-1 tvg-id="Economico" tvg-logo="Economico.png" group-title="CC",012-Economico
@@ -66,6 +67,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 #EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="CC",029-Historia
 
 #EXTINF:-1 tvg-id="Sporting TV" tvg-logo="Sporting TV.png" group-title="CC",030-Sporting TV
+http://selling01.ddns.net:8000/live/sasa/sasa/6033.ts
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="Eurosport 1.png" group-title="CC",031-Eurosport 1
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="Eurosport 2.png" group-title="CC",032-Eurosport 2
 #EXTINF:-1 tvg-id="Fuel TV" tvg-logo="Fuel TV.png" group-title="CC",033-Fuel TV
