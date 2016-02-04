@@ -62,7 +62,8 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 
 #EXTINF:-1 tvg-id="MOV" tvg-logo="MOV.png" group-title="CC",022-MOV
 
-#EXTINF:-1 tvg-id="FOX" tvg-logo="FOX.png" group-title="CC",023-FOX
+#EXTINF:-1 tvg-id="FOX" tvg-logo="FOX.png" group-title="CC",023-FOX UK
+http://89.163.148.31:8000/live/norman/norman/2803.ts
 
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="FOX LIFE.png" group-title="CC",024-FOX LIFE
 
