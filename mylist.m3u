@@ -58,7 +58,6 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1 tvg-id="Holllywood" tvg-logo="Holllywood.png" group-title="CC",019-Holllywood
-http://www.t12v.com:8000/live/prevot/prevot/498.ts
 
 #EXTINF:-1 tvg-id="AXN Black" tvg-logo="AXN Black.png" group-title="CC",020-AXN Black
 
