@@ -2,132 +2,132 @@
 #EXTINF:-1 group-title="PORTUGAL",[COLOR blue][I][B] PORTUGAL TDT[/B][/I][/COLOR]
 http://0.0.0.0:1234 
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="CC",001-RTP 1
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",001-RTP 1
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="CC",002-RTP 2
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",002-RTP 2
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" tvg-logo="SIC.png" group-title="CC",003-SIC
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" tvg-logo="SIC.png" group-title="PORTUGAL",003-SIC
 http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8 
 
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="CC",004-TVI
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",004-TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp informaçao.png" group-title="CC",005-RTP 3 
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp informaçao.png" group-title="PORTUGAL",005-RTP 3 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="CC",006-SIC NOTICIAS (INSTAVEL)
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",006-SIC NOTICIAS (INSTAVEL)
 http://selling01.ddns.net:8000/live/sasa/sasa/5994.ts
 
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="CC",007-TVI 24
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",007-TVI 24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="CC",008-CMTV (INSTAVEL)
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="PORTUGAL",008-CMTV (INSTAVEL)
 http://selling01.ddns.net:8000/live/sasa/sasa/5985.ts
 
-#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="SIC Radical.png" group-title="CC",009-SIC Radical  (INSTAVEL)
+#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="SIC Radical.png" group-title="PORTUGAL",009-SIC Radical  (INSTAVEL)
 http://selling01.ddns.net:8000/live/sasa/sasa/5993.ts
 
-#EXTINF:-1 tvg-id="SIC Mulher" tvg-logo="SIC Mulher.png" group-title="CC",010-SIC Mulher
+#EXTINF:-1 tvg-id="SIC Mulher" tvg-logo="SIC Mulher.png" group-title="PORTUGAL",010-SIC Mulher
 
-#EXTINF:-1 tvg-id="TV LISBOA" tvg-logo="TV LISBOA.png" group-title="CC",010-TV LISBOA
+#EXTINF:-1 tvg-id="TV LISBOA" tvg-logo="TV LISBOA.png" group-title="PORTUGAL",010-TV LISBOA
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
-#EXTINF:-1 tvg-id="Porto Canal" tvg-logo="Porto Canal.png" group-title="CC",011-Porto Canal
+#EXTINF:-1 tvg-id="Porto Canal" tvg-logo="Porto Canal.png" group-title="PORTUGAL",011-Porto Canal
 
-#EXTINF:-1 tvg-id="Economico" tvg-logo="Economico.png" group-title="CC",012-Economico
+#EXTINF:-1 tvg-id="Economico" tvg-logo="Economico.png" group-title="PORTUGAL",012-Economico
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Euronews" tvg-logo="Euronews.png" group-title="CC",013-Euronews
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="Euronews.png" group-title="PORTUGAL",013-Euronews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
-#EXTINF:-1 tvg-id="RTP Memoria" tvg-logo="RTP Memoria.png" group-title="CC",014-RTP Memoria
+#EXTINF:-1 tvg-id="RTP Memoria" tvg-logo="RTP Memoria.png" group-title="PORTUGAL",014-RTP Memoria
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="RTP Madeira.png" group-title="CC",015-RTP Madeira
+#EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="RTP Madeira.png" group-title="PORTUGAL",015-RTP Madeira
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="RTP Açores" tvg-logo="RTP Açores" group-title="CC",016-RTP Açores
+#EXTINF:-1 tvg-id="RTP Açores" tvg-logo="RTP Açores" group-title="PORTUGAL",016-RTP Açores
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="RTP Africa" tvg-logo="RTP Africa" group-title="CC",017-RTP Africa
+#EXTINF:-1 tvg-id="RTP Africa" tvg-logo="RTP Africa" group-title="PORTUGAL",017-RTP Africa
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="RTP Int" tvg-logo="RTP Int" group-title="CC",018-RTP Int
+#EXTINF:-1 tvg-id="RTP Int" tvg-logo="RTP Int" group-title="PORTUGAL",018-RTP Int
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="Holllywood" tvg-logo="Holllywood.png" group-title="CC",019-Holllywood
+#EXTINF:-1 tvg-id="Holllywood" tvg-logo="Holllywood.png" group-title="PORTUGAL",019-Holllywood
 
-#EXTINF:-1 tvg-id="AXN Black" tvg-logo="AXN Black.png" group-title="CC",020-AXN Black
+#EXTINF:-1 tvg-id="AXN Black" tvg-logo="AXN Black.png" group-title="PORTUGAL",020-AXN Black
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="AXN.png" group-title="CC",021-AXN (INSTAVEL)
+#EXTINF:-1 tvg-id="AXN" tvg-logo="AXN.png" group-title="PORTUGAL",021-AXN (INSTAVEL)
 http://77.76.140.251:22637/udp/224.156.69.163:5000
 
-#EXTINF:-1 tvg-id="MOV" tvg-logo="MOV.png" group-title="CC",022-MOV
+#EXTINF:-1 tvg-id="MOV" tvg-logo="MOV.png" group-title="PORTUGAL",022-MOV
 
-#EXTINF:-1 tvg-id="FOX" tvg-logo="FOX.png" group-title="CC",023-FOX UK (INSTAVEL)
+#EXTINF:-1 tvg-id="FOX" tvg-logo="FOX.png" group-title="PORTUGAL",023-FOX UK (INSTAVEL)
 http://89.163.148.31:8000/live/norman/norman/2803.ts
 
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="FOX LIFE.png" group-title="CC",024-FOX LIFE
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="FOX LIFE.png" group-title="PORTUGAL",024-FOX LIFE
 
-#EXTINF:-1 tvg-id="TLC" tvg-logo="TLC.png" group-title="CC",025-TLC
+#EXTINF:-1 tvg-id="TLC" tvg-logo="TLC.png" group-title="PORTUGAL",025-TLC
 
-#EXTINF:-1 tvg-id="A&E" tvg-logo="A&E.png" group-title="CC",026-A&E
+#EXTINF:-1 tvg-id="A&E" tvg-logo="A&E.png" group-title="PORTUGAL",026-A&E
 
-#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="24Kitchen.png" group-title="CC",027-24Kitchen
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="24Kitchen.png" group-title="PORTUGAL",027-24Kitchen
 
-#EXTINF:-1 tvg-id="Discovery" tvg-logo="Discovery.png" group-title="CC",028-Discovery
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="Discovery.png" group-title="PORTUGAL",028-Discovery
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-logo="National Geographic.png" group-title="CC",029-National Geographic
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="National Geographic.png" group-title="PORTUGAL",029-National Geographic
 
-#EXTINF:-1 tvg-id="Odisseia" tvg-logo="Odisseia.png" group-title="CC",030-Odisseia
+#EXTINF:-1 tvg-id="Odisseia" tvg-logo="Odisseia.png" group-title="PORTUGAL",030-Odisseia
 
-#EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="CC",031-Historia
+#EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="PORTUGAL",031-Historia
 
-#EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="CC",032-Abola TV (INSTAVEL)
+#EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="PORTUGAL",032-Abola TV (INSTAVEL)
 http://selling01.ddns.net:8000/live/sasa/sasa/6040.ts
 
-#EXTINF:-1 tvg-id="Sporting TV" tvg-logo="Sporting TV.png" group-title="CC",033-Sporting TV (INSTAVEL)
+#EXTINF:-1 tvg-id="Sporting TV" tvg-logo="Sporting TV.png" group-title="PORTUGAL",033-Sporting TV (INSTAVEL)
 http://selling01.ddns.net:8000/live/sasa/sasa/6033.ts
 
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="Eurosport 1.png" group-title="CC",034-Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="Eurosport 1.png" group-title="PORTUGAL",034-Eurosport 1
 
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="Eurosport 2.png" group-title="CC",035-Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="Eurosport 2.png" group-title="PORTUGAL",035-Eurosport 2
 
-#EXTINF:-1 tvg-id="Fuel TV" tvg-logo="Fuel TV.png" group-title="CC",036-Fuel TV
+#EXTINF:-1 tvg-id="Fuel TV" tvg-logo="Fuel TV.png" group-title="PORTUGAL",036-Fuel TV
 
-#EXTINF:-1 tvg-id="VH1" tvg-logo="VH1.png" group-title="CC",037-VH1
+#EXTINF:-1 tvg-id="VH1" tvg-logo="VH1.png" group-title="PORTUGAL",037-VH1
 
-#EXTINF:-1 tvg-id="MCM" tvg-logo="24Kitchen.png" group-title="CC",038-MCM
+#EXTINF:-1 tvg-id="MCM" tvg-logo="24Kitchen.png" group-title="PORTUGAL",038-MCM
 
-#EXTINF:-1 tvg-id="Travel" tvg-logo="Travel.png" group-title="CC",039-Travel
+#EXTINF:-1 tvg-id="Travel" tvg-logo="Travel.png" group-title="PORTUGAL",039-Travel
 
-#EXTINF:-1 tvg-id="Fox Crime" tvg-logo="Fox Crime.png" group-title="CC",040-Fox Crime
+#EXTINF:-1 tvg-id="Fox Crime" tvg-logo="Fox Crime.png" group-title="PORTUGAL",040-Fox Crime
 
-#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="Fox Movies.png" group-title="CC",041-Fox Movies
+#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="Fox Movies.png" group-title="PORTUGAL",041-Fox Movies
 
-#EXTINF:-1 tvg-id="Fox Comedy" tvg-logo="Fox Comedy.png" group-title="CC",042-Fox Comedy
+#EXTINF:-1 tvg-id="Fox Comedy" tvg-logo="Fox Comedy.png" group-title="PORTUGAL",042-Fox Comedy
 
-#EXTINF:-1 tvg-id="SyFy" tvg-logo="SyFy.png" group-title="CC",043-SyFy
+#EXTINF:-1 tvg-id="SyFy" tvg-logo="SyFy.png" group-title="PORTUGAL",043-SyFy
 
-#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="Fox Movies.png" group-title="CC",044-Fox Movies
+#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="Fox Movies.png" group-title="PORTUGAL",044-Fox Movies
 
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="Nat Geo Wild.png" group-title="CC",045-Nat Geo Wild
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="Nat Geo Wild.png" group-title="PORTUGAL",045-Nat Geo Wild
 
-#EXTINF:-1 tvg-id="TVC1" tvg-logo="TVC1.png" group-title="CC",046-TVC1
+#EXTINF:-1 tvg-id="TVC1" tvg-logo="TVC1.png" group-title="PORTUGAL",046-TVC1
 
-#EXTINF:-1 tvg-id="TVC2" tvg-logo="TVC2.png" group-title="CC",047-TVC2
+#EXTINF:-1 tvg-id="TVC2" tvg-logo="TVC2.png" group-title="PORTUGAL",047-TVC2
 
-#EXTINF:-1 tvg-id="TVC3" tvg-logo="TVC3.png" group-title="CC",048-TVC3
+#EXTINF:-1 tvg-id="TVC3" tvg-logo="TVC3.png" group-title="PORTUGAL",048-TVC3
 
-#EXTINF:-1 tvg-id="TVC4" tvg-logo="TVC4.png" group-title="CC",049-TVC4
+#EXTINF:-1 tvg-id="TVC4" tvg-logo="TVC4.png" group-title="PORTUGAL",049-TVC4
 
-#EXTINF:-1 tvg-id="TVC5" tvg-logo="TVC5.png" group-title="CC",050-TVC5
+#EXTINF:-1 tvg-id="TVC5" tvg-logo="TVC5.png" group-title="PORTUGAL",050-TVC5
 
-#EXTINF:-1 tvg-id="AXN White" tvg-logo="AXN White.png" group-title="CC",051-AXN White
+#EXTINF:-1 tvg-id="AXN White" tvg-logo="AXN White.png" group-title="PORTUGAL",051-AXN White
 
-#EXTINF:-1 tvg-id="FTV" tvg-logo="FTV.png" group-title="CC",052-FTV (INSTAVEL)
+#EXTINF:-1 tvg-id="FTV" tvg-logo="FTV.png" group-title="PORTUGAL",052-FTV (INSTAVEL)
 rtmp://95.67.8.43:1935/live/fashionhd
 
 #EXTINF:-1 tvg-id="M4 SPORT" tvg-logo="M4 SPORT.png" group-title="CC",053-M4 SPORT
@@ -207,11 +207,7 @@ http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:-1 tvg-id="PAC OREGON HD" tvg-logo="PAC OREGON HD.png" group-title="CC",078-PAC OREGON HD (USA)
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 
-#EXTINF:-1 tvg-id="HOT" tvg-logo="HOT.png" group-title="CC",079-HOT
 
-#EXTINF:-1 tvg-id="Playboy" tvg-logo="BTV2.png" group-title="CC",080-Playboy
-
-#EXTINF:-1 tvg-id="Penthouse" tvg-logo="Penthouse.png" group-title="CC",081-Penthouse
 
 
 
