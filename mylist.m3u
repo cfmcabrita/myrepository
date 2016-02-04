@@ -26,7 +26,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="CC",008-CMTV (INSTAVEL)
 http://selling01.ddns.net:8000/live/sasa/sasa/5985.ts
 
-#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="SIC Radical.png" group-title="CC",009-SIC Radical
+#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="SIC Radical.png" group-title="CC",009-SIC Radical  (INSTAVEL)
 http://selling01.ddns.net:8000/live/sasa/sasa/5993.ts
 
 #EXTINF:-1 tvg-id="SIC Mulher" tvg-logo="SIC Mulher.png" group-title="CC",010-SIC Mulher
