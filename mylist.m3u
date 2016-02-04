@@ -61,7 +61,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 
 #EXTINF:-1 tvg-id="AXN Black" tvg-logo="AXN Black.png" group-title="CC",020-AXN Black
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="AXN.png" group-title="CC",021-AXN
+#EXTINF:-1 tvg-id="AXN" tvg-logo="AXN.png" group-title="CC",021-AXN (INSTAVEL)
 http://77.76.140.251:22637/udp/224.156.69.163:5000
 
 #EXTINF:-1 tvg-id="MOV" tvg-logo="MOV.png" group-title="CC",022-MOV
