@@ -167,7 +167,6 @@ http://91.204.214.106:23201/stolen/233w/xenixos.7z
 http://tv.online.tm/hls/ch004_md/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport 1" tvg-logo="Sport 1.png" group-title="CC",065-Sport 1 (RUS)
-http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTV Sport" tvg-logo="NTV Sport.png" group-title="CC",066-NTV Sport (RUS)
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
