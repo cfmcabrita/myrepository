@@ -212,3 +212,6 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1 tvg-id="Playboy" tvg-logo="BTV2.png" group-title="CC",080-Playboy
 
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="Penthouse.png" group-title="CC",081-Penthouse
+
+#EXTINF:-1 tvg-id="BABESTATION XTREME" tvg-logo="BABESTATION XTREME.png" group-title="CC",200-BABESTATION XTREME
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
