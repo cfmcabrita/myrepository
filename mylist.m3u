@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="PORTUGAL",[COLOR blue][I][B] PORTUGAL TDT[/B][/I][/COLOR]
-http://0.0.0.0:1234 
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",001-RTP 1
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
@@ -210,12 +208,11 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="Eurosport 1.png" group-title="SPORTS",700-Eurosport 1 (UK)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
-
-#EXTM3U
-#EXTINF:-1 group-title="ADULT",[COLOR blue][I][B] PORTUGAL TDT[/B][/I][/COLOR]
-http://0.0.0.0:1234 
-
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="Eurosport 2.png" group-title="SPORTS",700-Eurosport 2 (UK)
+http://iptv.wssiptv.com:80/live/gil71/Aimee211204/13.ts
 
 #EXTINF:-1 tvg-id="BABESTATION XTREME" tvg-logo="BABESTATION XTREME.png" group-title="ADULT",800-BABESTATION XTREME
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
