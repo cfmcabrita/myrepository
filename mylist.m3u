@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="PORTUGAL",[COLOR blue][I][B] PORTUGAL TDT[/B][/I][/COLOR]
-http://0.0.0.0:1234 (ARGIVAI)
+http://0.0.0.0:1234 
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="CC",001-RTP 1
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
@@ -213,73 +213,81 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="Penthouse.png" group-title="CC",081-Penthouse
 
-#EXTINF:-1 tvg-id="BABESTATION XTREME" tvg-logo="BABESTATION XTREME.png" group-title="CC",200-BABESTATION XTREME
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="ADULT",[COLOR blue][I][B] PORTUGAL TDT[/B][/I][/COLOR]
+http://0.0.0.0:1234 
+
+
+#EXTINF:-1 tvg-id="BABESTATION XTREME" tvg-logo="BABESTATION XTREME.png" group-title="ADULT",800-BABESTATION XTREME
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
 
-#EXTINF:-1 tvg-id="SEXZONE HD" tvg-logo="SEXZONE HD.png" group-title="CC",201-SEXZONE HD
+#EXTINF:-1 tvg-id="SEXZONE HD" tvg-logo="SEXZONE HD.png" group-title="ADULT",801-SEXZONE HD
 http://46.182.25.34:1935/tv/1420/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JASMIN TV" tvg-logo="JASMIN TV.png" group-title="CC",202-JASMIN TV
+#EXTINF:-1 tvg-id="JASMIN TV" tvg-logo="JASMIN TV.png" group-title="ADULT",802-JASMIN TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 
-#EXTINF:-1 tvg-id="Babestation CAM 1" tvg-logo="Babestation CAM 1.png" group-title="CC",203-Babestation CAM 1
+#EXTINF:-1 tvg-id="Babestation CAM 1" tvg-logo="Babestation CAM 1.png" group-title="ADULT",803-Babestation CAM 1
 http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 
-#EXTINF:-1 tvg-id="Babestation CAM 2" tvg-logo="Babestation CAM 2.png" group-title="CC",204-Babestation CAM 2
+#EXTINF:-1 tvg-id="Babestation CAM 2" tvg-logo="Babestation CAM 2.png" group-title="ADULT",804-Babestation CAM 2
 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 
-#EXTINF:-1 tvg-id="LIVE SEX LATINAS" tvg-logo="LIVE SEX LATINAS.png" group-title="CC",205-LIVE SEX LATINAS
+#EXTINF:-1 tvg-id="LIVE SEX LATINAS" tvg-logo="LIVE SEX LATINAS.png" group-title="ADULT",805-LIVE SEX LATINAS
 http://178.33.126.213:1935/leved/livesexlatinas/.m3u8
 
-#EXTINF:-1 tvg-id="Asian Porn 1" tvg-logo="Asian Porn 1.png" group-title="CC",206-Asian Porn 1
+#EXTINF:-1 tvg-id="Asian Porn 1" tvg-logo="Asian Porn 1.png" group-title="ADULT",806-Asian Porn 1
 http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
 
-#EXTINF:-1 tvg-id="Asian Porn 2" tvg-logo="Asian Porn 2.png" group-title="CC",207-Asian Porn 2
+#EXTINF:-1 tvg-id="Asian Porn 2" tvg-logo="Asian Porn 2.png" group-title="ADULT",807-Asian Porn 2
 http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
 
-#EXTINF:-1 tvg-id="Asian Porn 3" tvg-logo="Asian Porn 3.png" group-title="CC",208-Asian Porn 3
+#EXTINF:-1 tvg-id="Asian Porn 3" tvg-logo="Asian Porn 3.png" group-title="ADULT",808-Asian Porn 3
 http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
 
-#EXTINF:-1 tvg-id="Japao Hot" tvg-logo="Japao Hot.png" group-title="CC",208- Japao Hot
+#EXTINF:-1 tvg-id="Japao Hot" tvg-logo="Japao Hot.png" group-title="ADULT",808- Japao Hot
 rtmp://edge2.everyon.tv/etv2/pld1008
 
-#EXTINF:-1 tvg-id="Ask TV" tvg-logo="Ask TV.png" group-title="CC",209-Ask TV
+#EXTINF:-1 tvg-id="Ask TV" tvg-logo="Ask TV.png" group-title="ADULT",809-Ask TV
 http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
 
-#EXTINF:-1 tvg-id="Bella Club" tvg-logo="Bella Club.png" group-title="CC",210-Bella Club
+#EXTINF:-1 tvg-id="Bella Club" tvg-logo="Bella Club.png" group-title="ADULT",810-Bella Club
 http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8
 
-#EXTINF:-1 tvg-id="BRAZZERS" tvg-logo="BRAZZERS.png" group-title="CC",211-BRAZZERS
+#EXTINF:-1 tvg-id="BRAZZERS" tvg-logo="BRAZZERS.png" group-title="ADULT",811-BRAZZERS
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
 
-#EXTINF:-1 tvg-id="BSX" tvg-logo="BSX.png" group-title="CC",212-BSX
+#EXTINF:-1 tvg-id="BSX" tvg-logo="BSX.png" group-title="ADULT",812-BSX
 http://178.33.126.213:1935/bsx24/mpegts1.stream/chunklist.m3u8?wowzasessionid=1294940186
 
-#EXTINF:-1 tvg-id="Erotic 1" tvg-logo="Erotic 1.png" group-title="CC",213-Erotic 1
+#EXTINF:-1 tvg-id="Erotic 1" tvg-logo="Erotic 1.png" group-title="ADULT",813-Erotic 1
 http://0100dyndns.tv:7879/live/tazia/tazia/155.m3u8
 
-#EXTINF:-1 tvg-id="FilmOn" tvg-logo="FilmOn.png" group-title="CC",214-FilmOn
+#EXTINF:-1 tvg-id="FilmOn" tvg-logo="FilmOn.png" group-title="ADULT",814-FilmOn
 http://0100dyndns.tv:7879/live/tazia/tazia/154.m3u8
 
-#EXTINF:-1 tvg-id="Flower (RU)" tvg-logo="Flower (RU).png" group-title="CC",215-Flower (RU)
+#EXTINF:-1 tvg-id="Flower (RU)" tvg-logo="Flower (RU).png" group-title="ADULT",815-Flower (RU)
 http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
 
-#EXTINF:-1 tvg-id="LiveSex" tvg-logo="LiveSex.png" group-title="CC",216-LiveSex
+#EXTINF:-1 tvg-id="LiveSex" tvg-logo="LiveSex.png" group-title="ADULT",816-LiveSex
 http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Livething Premium" tvg-logo="Livething Premium.png" group-title="CC",217- Livething Premium 
+#EXTINF:-1 tvg-id="Livething Premium" tvg-logo="Livething Premium.png" group-title="ADULT",817- Livething Premium 
 http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
 
-#EXTINF:-1 tvg-id="O-LA-LA" tvg-logo="O-LA-LA.png" group-title="CC",217- O-LA-LA
+#EXTINF:-1 tvg-id="O-LA-LA" tvg-logo="O-LA-LA.png" group-title="ADULT",817- O-LA-LA
 http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 
-#EXTINF:-1 tvg-id="PASSI XXX" tvg-logo="PASSI XXX.png" group-title="CC",218- PASSI XXX
+#EXTINF:-1 tvg-id="PASSI XXX" tvg-logo="PASSI XXX.png" group-title="ADULT",218- PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PLAY 2" tvg-logo="PLAY 2.png" group-title="CC",219- PLAY 2
+#EXTINF:-1 tvg-id="PLAY 2" tvg-logo="PLAY 2.png" group-title="ADULT",819- PLAY 2
 http://0100dyndns.tv:7879/live/tazia/tazia/152.m3u8
 
-#EXTINF:-1 tvg-id="Sexstation" tvg-logo="Sexstation.png" group-title="CC",220- Sexstation 
+#EXTINF:-1 tvg-id="Sexstation" tvg-logo="Sexstation.png" group-title="ADULT",820- Sexstation 
 http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
 
 
