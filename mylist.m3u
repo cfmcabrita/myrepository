@@ -21,7 +21,7 @@ http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/5.ts
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",007-TVI 24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="PORTUGAL",008-CMTV (INSTAVEL)
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="PORTUGAL",008-CMTV 
 http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/6.ts
 
 #EXTINF:-1 tvg-id="SIC Radical" tvg-logo="SIC Radical.png" group-title="PORTUGAL",009-SIC Radical  (INSTAVEL)
