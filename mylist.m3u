@@ -34,6 +34,12 @@ http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
 #EXTINF:-1 tvg-id="Porto Canal" tvg-logo="Porto Canal.png" group-title="PORTUGAL",011-Porto Canal
 
+#EXTINF:-1 tvg-id="TVI Ficcao" tvg-logo="TVI Ficcao.png" group-title="PORTUGAL",012-TVI Ficcao
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/8.ts
+
+#EXTINF:-1 tvg-id="A Quinta" tvg-logo="A Quinta.png" group-title="PORTUGAL",012- A Quinta
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/9.ts
+
 #EXTINF:-1 tvg-id="Economico" tvg-logo="Economico.png" group-title="PORTUGAL",012-Economico
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
@@ -143,12 +149,23 @@ http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/44.ts
 #EXTINF:-1 tvg-id="FTV" tvg-logo="FTV.png" group-title="PORTUGAL",052-FTV (INSTAVEL)
 rtmp://95.67.8.43:1935/live/fashionhd
 
+#EXTINF:-1 tvg-id="Globo Premium" tvg-logo="Globo Premium.png" group-title="PORTUGAL",052-Globo Premium
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/14.ts
 
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="Disney Junior.png" group-title="PORTUGAL",052-Disney Junior
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/17.ts
 
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="Disney Channel.png" group-title="PORTUGAL",052-Disney Channel
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/18.ts
 
+#EXTINF:-1 tvg-id="Panda" tvg-logo="Panda.png" group-title="PORTUGAL",052-Panda
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/19.ts
 
+#EXTINF:-1 tvg-id="Cacavision" tvg-logo="Cacavision.png" group-title="PORTUGAL",052-Cacavision
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/16.ts
 
-
+#EXTINF:-1 tvg-id="Caca e Pesca"-logo="Caca e Pesca.png" group-title="PORTUGAL",052-Caca e Pesca
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/15.ts
 
 #EXTINF:-1 tvg-id="M4 SPORT" tvg-logo="M4 SPORT.png" group-title="CC",053-M4 SPORT
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
@@ -178,10 +195,10 @@ http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/27.ts
 http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/28.ts
 
 #EXTINF:-1 tvg-id="BTV1" tvg-logo="BTV1.png" group-title="CC",062-BTV1
-http://91.204.214.106:23201/stolen/250l/xenixos.7z
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/21.ts
 
 #EXTINF:-1 tvg-id="BTV2" tvg-logo="BTV2.png" group-title="CC",063-BTV2
-http://91.204.214.106:23201/stolen/233w/xenixos.7z
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/22.ts
 
 #EXTINF:-1 tvg-id="Turkmen Sport" tvg-logo="Turkmen Sport.png" group-title="CC",064-Turkmen Sport (TUR)
 http://tv.online.tm/hls/ch004_md/index.m3u8
@@ -315,6 +332,12 @@ http://0100dyndns.tv:7879/live/tazia/tazia/152.m3u8
 http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-id="BTV1" tvg-logo="BTV1.png" group-title="CC",900-BTV1
+http://91.204.214.106:23201/stolen/250l/xenixos.7z
+
+
+#EXTINF:-1 tvg-id="BTV2" tvg-logo="BTV2.png" group-title="CC",901-BTV2
+http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
 
 
