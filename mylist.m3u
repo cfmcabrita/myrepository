@@ -15,8 +15,8 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp informaçao.png" group-title="PORTUGAL",005-RTP 3 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",006-SIC NOTICIAS (INSTAVEL)
-http://selling01.ddns.net:8000/live/sasa/sasa/5994.ts
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",006-SIC NOTICIAS 
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/5.ts
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",007-TVI 24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
