@@ -7,7 +7,8 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" tvg-logo="SIC.png" group-title="PORTUGAL",003-SIC
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/3.ts
+rtmp://213.13.26.13/live playpath=sic swfUrl=http://js.sapo.pt/Projects/Video/150825R1/flash/videojs.swf pageUrl=http://videos.sapo.pt/ShZNJuwCiSpfkjYs7YNk
+
 
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",004-TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
