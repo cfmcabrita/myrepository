@@ -262,7 +262,8 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 rtmp://cp49989.live.edgefcs.net:1935/live playpath=streamRM1@2564 swfUrl=http://videoplatform.sky.it/player/swf/player_v2.swf pageUrl=http://video.sky.it/news/diretta swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1,300-BBC One 
-http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_4/live/bbc_one_london/bbc_one_london.isml/bbc_one_london-pa3=96000-video=1604000.bootstrap
+http://p.jwpcdn.com/6/12/jwplayer.flash.swf?event=clientstats&timeLoad=3828&timeImp=4056&timeInit=38&eov=1455479062478&depth=-1&playerRev=1a93a31&sdkType=flash&appInjected=1&pageUrl=&timeAdList=292&referer=http%3A%2F%2Fmultioptik.com%2Fepic-snowboarding-fails%2F&timeApp=1465
+
 #EXTINF:-1,301-BBC Two 
 http://37.220.108.122:20000/3 
 
