@@ -7,8 +7,6 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" tvg-logo="SIC.png" group-title="PORTUGAL",003-SIC
-rtmp://213.13.26.13/live playpath=sic swfUrl=http://js.sapo.pt/Projects/Video/150825R1/flash/videojs.swf pageUrl=http://videos.sapo.pt/ShZNJuwCiSpfkjYs7YNk
-
 
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",004-TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
@@ -17,196 +15,202 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",006-SIC NOTICIAS 
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/5.ts
+
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",007-TVI 24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="PORTUGAL",008-CMTV 
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/6.ts
+
 
 #EXTINF:-1 tvg-id="SIC Radical" tvg-logo="SIC Radical.png" group-title="PORTUGAL",009-SIC Radical  (INSTAVEL)
-http://selling01.ddns.net:8000/live/sasa/sasa/5993.ts
+
 
 #EXTINF:-1 tvg-id="SIC Mulher" tvg-logo="SIC Mulher.png" group-title="PORTUGAL",010-SIC Mulher
 
-#EXTINF:-1 tvg-id="TV LISBOA" tvg-logo="TV LISBOA.png" group-title="PORTUGAL",010-TV LISBOA (INSTAVEL)
+#EXTINF:-1 tvg-id="TV LISBOA" tvg-logo="TV LISBOA.png" group-title="PORTUGAL",011-TV LISBOA (INSTAVEL)
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
-#EXTINF:-1 tvg-id="Porto Canal" tvg-logo="Porto Canal.png" group-title="PORTUGAL",011-Porto Canal
+#EXTINF:-1 tvg-id="Porto Canal" tvg-logo="Porto Canal.png" group-title="PORTUGAL",012-Porto Canal
 
-#EXTINF:-1 tvg-id="TVI Ficcao" tvg-logo="TVI Ficcao.png" group-title="PORTUGAL",012-TVI Ficcao
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/8.ts
+#EXTINF:-1 tvg-id="TVI Ficcao" tvg-logo="TVI Ficcao.png" group-title="PORTUGAL",013-TVI Ficcao
 
-#EXTINF:-1 tvg-id="A Quinta" tvg-logo="A Quinta.png" group-title="PORTUGAL",012- A Quinta
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/9.ts
 
-#EXTINF:-1 tvg-id="Economico" tvg-logo="Economico.png" group-title="PORTUGAL",012-Economico
+#EXTINF:-1 tvg-id="A Quinta" tvg-logo="A Quinta.png" group-title="PORTUGAL",014- A Quinta
+
+
+#EXTINF:-1 tvg-id="Economico" tvg-logo="Economico.png" group-title="PORTUGAL",015-Economico
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Euronews" tvg-logo="Euronews.png" group-title="PORTUGAL",013-Euronews
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="Euronews.png" group-title="PORTUGAL",016-Euronews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
-#EXTINF:-1 tvg-id="RTP Memoria" tvg-logo="RTP Memoria.png" group-title="PORTUGAL",014-RTP Memoria
+#EXTINF:-1 tvg-id="RTP Memoria" tvg-logo="RTP Memoria.png" group-title="PORTUGAL",017-RTP Memoria
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="RTP Madeira.png" group-title="PORTUGAL",015-RTP Madeira
+#EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="RTP Madeira.png" group-title="PORTUGAL",018-RTP Madeira
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="RTP Açores" tvg-logo="RTP Açores" group-title="PORTUGAL",016-RTP Açores
+#EXTINF:-1 tvg-id="RTP Açores" tvg-logo="RTP Açores" group-title="PORTUGAL",019-RTP Açores
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="RTP Africa" tvg-logo="RTP Africa" group-title="PORTUGAL",017-RTP Africa
+#EXTINF:-1 tvg-id="RTP Africa" tvg-logo="RTP Africa" group-title="PORTUGAL",020-RTP Africa
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="RTP Int" tvg-logo="RTP Int" group-title="PORTUGAL",018-RTP Int
+#EXTINF:-1 tvg-id="RTP Int" tvg-logo="RTP Int" group-title="PORTUGAL",021-RTP Int
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="Holllywood" tvg-logo="Holllywood.png" group-title="PORTUGAL",019-Holllywood
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/52.ts
+#EXTINF:-1 tvg-id="Holllywood" tvg-logo="Holllywood.png" group-title="PORTUGAL",022-Holllywood
 
-#EXTINF:-1 tvg-id="AXN Black" tvg-logo="AXN Black.png" group-title="PORTUGAL",020-AXN Black
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="AXN.png" group-title="PORTUGAL",021-AXN 
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/45.ts
+#EXTINF:-1 tvg-id="AXN Black" tvg-logo="AXN Black.png" group-title="PORTUGAL",023-AXN Black
 
-#EXTINF:-1 tvg-id="MOV" tvg-logo="MOV.png" group-title="PORTUGAL",022-MOV
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/51.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="AXN.png" group-title="PORTUGAL",024-AXN 
 
-#EXTINF:-1 tvg-id="FOX" tvg-logo="FOX.png" group-title="PORTUGAL",023-FOX 
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/49.ts
 
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="FOX LIFE.png" group-title="PORTUGAL",024-FOX LIFE
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/48.ts
+#EXTINF:-1 tvg-id="MOV" tvg-logo="MOV.png" group-title="PORTUGAL",025-MOV
 
-#EXTINF:-1 tvg-id="TLC" tvg-logo="TLC.png" group-title="PORTUGAL",025-TLC
 
-#EXTINF:-1 tvg-id="A&E" tvg-logo="A&E.png" group-title="PORTUGAL",026-A&E
+#EXTINF:-1 tvg-id="FOX" tvg-logo="FOX.png" group-title="PORTUGAL",026-FOX 
 
-#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="24Kitchen.png" group-title="PORTUGAL",027-24Kitchen
 
-#EXTINF:-1 tvg-id="Discovery" tvg-logo="Discovery.png" group-title="PORTUGAL",028-Discovery
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/12.ts
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="FOX LIFE.png" group-title="PORTUGAL",027-FOX LIFE
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-logo="National Geographic.png" group-title="PORTUGAL",029-National Geographic
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/13.ts
 
-#EXTINF:-1 tvg-id="Odisseia" tvg-logo="Odisseia.png" group-title="PORTUGAL",030-Odisseia
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/11.ts
+#EXTINF:-1 tvg-id="TLC" tvg-logo="TLC.png" group-title="PORTUGAL",028-TLC
 
-#EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="PORTUGAL",031-Historia
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/10.ts
+#EXTINF:-1 tvg-id="A&E" tvg-logo="A&E.png" group-title="PORTUGAL",029-A&E
 
-#EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="PORTUGAL",032-Abola TV 
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="24Kitchen.png" group-title="PORTUGAL",030-24Kitchen
+
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="Discovery.png" group-title="PORTUGAL",031-Discovery
+
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="National Geographic.png" group-title="PORTUGAL",032-National Geographic
+
+
+#EXTINF:-1 tvg-id="Odisseia" tvg-logo="Odisseia.png" group-title="PORTUGAL",033-Odisseia
+
+
+#EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="PORTUGAL",034-Historia
+
+
+#EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="PORTUGAL",035-Abola TV 
 http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/20.ts
 
-#EXTINF:-1 tvg-id="Sporting TV" tvg-logo="Sporting TV.png" group-title="PORTUGAL",033-Sporting TV 
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/23.ts
+#EXTINF:-1 tvg-id="Sporting TV" tvg-logo="Sporting TV.png" group-title="PORTUGAL",036-Sporting TV 
 
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="Eurosport 1.png" group-title="PORTUGAL",034-Eurosport 1
 
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="Eurosport 2.png" group-title="PORTUGAL",035-Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="Eurosport 1.png" group-title="PORTUGAL",037-Eurosport 1
 
-#EXTINF:-1 tvg-id="Fuel TV" tvg-logo="Fuel TV.png" group-title="PORTUGAL",036-Fuel TV
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="Eurosport 2.png" group-title="PORTUGAL",038-Eurosport 2
 
-#EXTINF:-1 tvg-id="VH1" tvg-logo="VH1.png" group-title="PORTUGAL",037-VH1
+#EXTINF:-1 tvg-id="Fuel TV" tvg-logo="Fuel TV.png" group-title="PORTUGAL",039-Fuel TV
 
-#EXTINF:-1 tvg-id="MCM" tvg-logo="24Kitchen.png" group-title="PORTUGAL",038-MCM
+#EXTINF:-1 tvg-id="VH1" tvg-logo="VH1.png" group-title="PORTUGAL",040-VH1
 
-#EXTINF:-1 tvg-id="Travel" tvg-logo="Travel.png" group-title="PORTUGAL",039-Travel
+#EXTINF:-1 tvg-id="MCM" tvg-logo="24Kitchen.png" group-title="PORTUGAL",041-MCM
 
-#EXTINF:-1 tvg-id="Fox Crime" tvg-logo="Fox Crime.png" group-title="PORTUGAL",040-Fox Crime
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/47.ts
+#EXTINF:-1 tvg-id="Travel" tvg-logo="Travel.png" group-title="PORTUGAL",042-Travel
 
-#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="Fox Movies.png" group-title="PORTUGAL",041-Fox Movies
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/50.ts
+#EXTINF:-1 tvg-id="Fox Crime" tvg-logo="Fox Crime.png" group-title="PORTUGAL",043-Fox Crime
 
-#EXTINF:-1 tvg-id="Fox Comedy" tvg-logo="Fox Comedy.png" group-title="PORTUGAL",042-Fox Comedy
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/46.ts
-
-#EXTINF:-1 tvg-id="SyFy" tvg-logo="SyFy.png" group-title="PORTUGAL",043-SyFy
 
 #EXTINF:-1 tvg-id="Fox Movies" tvg-logo="Fox Movies.png" group-title="PORTUGAL",044-Fox Movies
 
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="Nat Geo Wild.png" group-title="PORTUGAL",045-Nat Geo Wild
 
-#EXTINF:-1 tvg-id="TVC1" tvg-logo="TVC1.png" group-title="PORTUGAL",046-TVC1
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/40.ts
+#EXTINF:-1 tvg-id="Fox Comedy" tvg-logo="Fox Comedy.png" group-title="PORTUGAL",045-Fox Comedy
 
-#EXTINF:-1 tvg-id="TVC2" tvg-logo="TVC2.png" group-title="PORTUGAL",047-TVC2
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/41.ts
 
-#EXTINF:-1 tvg-id="TVC3" tvg-logo="TVC3.png" group-title="PORTUGAL",048-TVC3
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/42.ts
+#EXTINF:-1 tvg-id="SyFy" tvg-logo="SyFy.png" group-title="PORTUGAL",046-SyFy
 
-#EXTINF:-1 tvg-id="TVC4" tvg-logo="TVC4.png" group-title="PORTUGAL",049-TVC4
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/43.ts
+#EXTINF:-1 tvg-id="Fox Movies" tvg-logo="Fox Movies.png" group-title="PORTUGAL",047-Fox Movies
 
-#EXTINF:-1 tvg-id="TVC5" tvg-logo="TVC5.png" group-title="PORTUGAL",050-TVC5
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="Nat Geo Wild.png" group-title="PORTUGAL",048-Nat Geo Wild
 
-#EXTINF:-1 tvg-id="AXN White" tvg-logo="AXN White.png" group-title="PORTUGAL",051-AXN White
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/44.ts
+#EXTINF:-1 tvg-id="TVC1" tvg-logo="TVC1.png" group-title="PORTUGAL",049-TVC1
 
-#EXTINF:-1 tvg-id="FTV" tvg-logo="FTV.png" group-title="PORTUGAL",052-FTV (INSTAVEL)
+
+#EXTINF:-1 tvg-id="TVC2" tvg-logo="TVC2.png" group-title="PORTUGAL",050-TVC2
+
+
+#EXTINF:-1 tvg-id="TVC3" tvg-logo="TVC3.png" group-title="PORTUGAL",051-TVC3
+
+
+#EXTINF:-1 tvg-id="TVC4" tvg-logo="TVC4.png" group-title="PORTUGAL",052-TVC4
+
+
+#EXTINF:-1 tvg-id="TVC5" tvg-logo="TVC5.png" group-title="PORTUGAL",053-TVC5
+
+#EXTINF:-1 tvg-id="AXN White" tvg-logo="AXN White.png" group-title="PORTUGAL",054-AXN White
+
+
+#EXTINF:-1 tvg-id="FTV" tvg-logo="FTV.png" group-title="PORTUGAL",055-FTV 
 rtmp://95.67.8.43:1935/live/fashionhd
 
-#EXTINF:-1 tvg-id="Globo Premium" tvg-logo="Globo Premium.png" group-title="PORTUGAL",052-Globo Premium
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/14.ts
+#EXTINF:-1 tvg-id="Globo Premium" tvg-logo="Globo Premium.png" group-title="PORTUGAL",056-Globo Premium
 
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="Disney Junior.png" group-title="PORTUGAL",052-Disney Junior
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/17.ts
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="Disney Channel.png" group-title="PORTUGAL",052-Disney Channel
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/18.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="Disney Junior.png" group-title="PORTUGAL",057-Disney Junior
 
-#EXTINF:-1 tvg-id="Panda" tvg-logo="Panda.png" group-title="PORTUGAL",052-Panda
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/19.ts
 
-#EXTINF:-1 tvg-id="Cacavision" tvg-logo="Cacavision.png" group-title="PORTUGAL",052-Cacavision
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/16.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="Disney Channel.png" group-title="PORTUGAL",058-Disney Channel
 
-#EXTINF:-1 tvg-id="Caca e Pesca"-logo="Caca e Pesca.png" group-title="PORTUGAL",052-Caca e Pesca
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/15.ts
 
-#EXTINF:-1 tvg-id="M4 SPORT" tvg-logo="M4 SPORT.png" group-title="CC",053-M4 SPORT
+#EXTINF:-1 tvg-id="Panda" tvg-logo="Panda.png" group-title="PORTUGAL",059-Panda
+
+
+#EXTINF:-1 tvg-id="Cacavision" tvg-logo="Cacavision.png" group-title="PORTUGAL",060-Cacavision
+
+
+#EXTINF:-1 tvg-id="Caca e Pesca"-logo="Caca e Pesca.png" group-title="PORTUGAL",061-Caca e Pesca
+
+#EXTINF:-1 tvg-id="SportTV1" tvg-logo="SportTV1.png" group-title="PORTUGAL",062-SportTV1
+
+
+#EXTINF:-1 tvg-id="SportTV2" tvg-logo="SportTV2.png" group-title="PORTUGAL",063-SportTV2
+
+
+#EXTINF:-1 tvg-id="SportTV3" tvg-logo="SportTV3.png" group-title="PORTUGAL",064-SportTV3 
+
+
+#EXTINF:-1 tvg-id="SportTV4" tvg-logo="SportTV4.png" group-title="PORTUGAL",065-SportTV4
+
+
+#EXTINF:-1 tvg-id="SportTV5" tvg-logo="SportTV5.png" group-title="PORTUGAL",066-SportTV5
+
+
+#EXTINF:-1 tvg-id="BTV1" tvg-logo="BTV1.png" group-title="PORTUGAL",067-BTV1
+
+
+#EXTINF:-1 tvg-id="BTV2" tvg-logo="BTV2.png" group-title="PORTUGAL",068-BTV2
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="M4 SPORT" tvg-logo="M4 SPORT.png" group-title="SPORT",100-M4 SPORT
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RETE SPORT 8" tvg-logo="RETE SPORT 8.png" group-title="CC",054-RETE SPORT 8 (ITA)
+#EXTINF:-1 tvg-id="RETE SPORT 8" tvg-logo="RETE SPORT 8.png" group-title="SPORT",101-RETE SPORT 8 (ITA)
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 
-#EXTINF:-1 tvg-id="Sport Max" tvg-logo="Sport Max.png" group-title="CC",055-Sport Max (UK)
+#EXTINF:-1 tvg-id="Sport Max" tvg-logo="Sport Max.png" group-title="SPORT",102-Sport Max (UK)
 http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
 
-#EXTINF:-1 tvg-id="TELEKANAL" tvg-logo="TELEKANAL.png" group-title="CC",056-TELEKANAL(RUS)
+#EXTINF:-1 tvg-id="TELEKANAL" tvg-logo="TELEKANAL.png" group-title="SPORT",103-TELEKANAL(RUS)
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SportTV1" tvg-logo="SportTV1.png" group-title="CC",057-SportTV1
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/24.ts
-
-#EXTINF:-1 tvg-id="SportTV2" tvg-logo="SportTV2.png" group-title="CC",058-SportTV2
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/25.ts
-
-#EXTINF:-1 tvg-id="SportTV3" tvg-logo="SportTV3.png" group-title="CC",059-SportTV3 
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/26.ts
-
-#EXTINF:-1 tvg-id="SportTV4" tvg-logo="SportTV4.png" group-title="CC",060-SportTV4
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/27.ts
-
-#EXTINF:-1 tvg-id="SportTV5" tvg-logo="SportTV5.png" group-title="CC",061-SportTV5
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/28.ts
-
-#EXTINF:-1 tvg-id="BTV1" tvg-logo="BTV1.png" group-title="CC",062-BTV1
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/21.ts
-
-#EXTINF:-1 tvg-id="BTV2" tvg-logo="BTV2.png" group-title="CC",063-BTV2
-http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/22.ts
-
-#EXTINF:-1 tvg-id="Turkmen Sport" tvg-logo="Turkmen Sport.png" group-title="CC",064-Turkmen Sport (TUR)
+#EXTINF:-1 tvg-id="Turkmen Sport" tvg-logo="Turkmen Sport.png" group-title="SPORT",104-Turkmen Sport (TUR)
 http://tv.online.tm/hls/ch004_md/index.m3u8
 
-#EXTINF:-1 tvg-id="Sport 1" tvg-logo="Sport 1.png" group-title="CC",065-Sport 1 (RUS)
+#EXTINF:-1 tvg-id="Sport 1" tvg-logo="Sport 1.png" group-title="SPORT",105-Sport 1 (RUS)
 
-#EXTINF:-1 tvg-id="NTV Sport" tvg-logo="NTV Sport.png" group-title="CC",066-NTV Sport (RUS)
+#EXTINF:-1 tvg-id="NTV Sport" tvg-logo="NTV Sport.png" group-title="SPORT",106-NTV Sport (RUS)
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIASAT Sport Baltic" tvg-logo="VIASAT Sport Baltic.png" group-title="CC",067-VIASAT Sport Baltic (RUS)
@@ -286,11 +290,12 @@ http://37.220.108.122:20000/1
 #EXTINF:-1,301-BBC Two 
 http://37.220.108.122:20000/3 
 
+#EXTINF:-1,303-BBC Three 
+http://37.220.108.122:20000/5 
+
 #EXTINF:-1,302-BBC Four 
 http://37.220.108.122:20000/4 
 
-#EXTINF:-1,303-BBC Three 
-http://37.220.108.122:20000/5 
 
 #EXTINF:-1,304-BBC NEWS 
 http://37.220.108.122:20000/6 
@@ -379,12 +384,7 @@ http://0100dyndns.tv:7879/live/tazia/tazia/152.m3u8
 http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="BTV1" tvg-logo="BTV1.png" group-title="CC",900-BTV1
-http://91.204.214.106:23201/stolen/250l/xenixos.7z
 
-
-#EXTINF:-1 tvg-id="BTV2" tvg-logo="BTV2.png" group-title="CC",901-BTV2
-http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
 
 
