@@ -95,7 +95,9 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="PORTUGAL",034-Historia
-http://cdn.betterads.co/flash-vast/flash-vast-player.swf/redir/client/VPAIDClient.swf?adTagUrl=http%3A%2F%2Fads.adaptv.advertising.com%2Fa%2Fh%2FvZX9NUPEHHg2YWlxTXeRruHAswd0NjYLaAXM2%2BI%2Bwol0v5UK_z9dLgvi3MUDrUm1%3Fcb%3D1455477680%26pageUrl%3Dhttp%253A%252F%252Fwww.webmd.com%252Ffood-recipes%252F20160125%252Fkombucha-tea-is-it-safe%26description%3D%26duration%3D3600%26id%3D%26keywords%3DVIDEO_KEYWORDS%26title%3DVIDEO_TITLE%26url%3D%26eov%3Deov%26a.cluster%3D0%26a.pvt%3D0&companionId=&cpmPassback=&placementId=666589&orgId=5047&injectCompanionDummy=&pauseOnClick=&d.vw=&d.app=
+rtmp://178.162.211.97/stream playpath=Vhistoriab?id=21918&pk=765d6eeebe8a619ee25d6adb374207ec9a74073dee4307dd9cc54a03c819434e swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer pageUrl=http://www.liveflashplayer.net/embedplayer/historiab/1/580/480
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
+
 
 #EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="PORTUGAL",035-Abola TV 
 
