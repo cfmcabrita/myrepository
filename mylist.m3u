@@ -93,7 +93,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="PORTUGAL",034-Historia
-http://r.securestreaming.xyz/live/historialTuF1/playlist.m3u8
+http://r.securestreaming.xyz/live/historialTuF1/playlist.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NTQ3NDg0MCZoYXNoX3ZhbHVlPWZlNWRlNjZkMGI0YTkwYjQ4ZmY1ODc2ZWJmMzY0ZWNlJnZhbGlkbWludXRlcz0zMCZpcD04MS4xMDcuMjQ1LjMwJg%3D%3D&wowzasessionid=937961997
 
 #EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="PORTUGAL",035-Abola TV 
 
