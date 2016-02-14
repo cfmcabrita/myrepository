@@ -255,7 +255,7 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 
 
 #EXTINF:-1 tvg-id="TG24" tvg-logo="TG24.png" group-title="PORTUGAL",200-SKY TG24
-rtmp://$OPT:rtmp-raw=rtmp://cp49989.live.edgefcs.net:1935/live playpath=streamRM1@2564 swfUrl=http://videoplatform.sky.it/player/swf/player_v2.swf pageUrl=http://video.sky.it/news/diretta
+rtmp://cp49989.live.edgefcs.net:1935/live playpath=streamRM1@2564 swfUrl=http://videoplatform.sky.it/player/swf/player_v2.swf pageUrl=http://video.sky.it/news/diretta
 
 #EXTINF:-1,300-BBC One 
 http://37.220.108.122:20000/1 
