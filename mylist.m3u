@@ -280,7 +280,23 @@ http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/39.ts
 #EXTINF:-1 tvg-id="FOX" tvg-logo="FOX.png" group-title="PORTUGAL",200-FOX UK (INSTAVEL)
 http://89.163.148.31:8000/live/norman/norman/2803.ts
 
+#EXTINF:-1,300-BBC One 
+http://37.220.108.122:20000/1 
 
+#EXTINF:-1,301-BBC Two 
+http://37.220.108.122:20000/3 
+
+#EXTINF:-1,302-BBC Four 
+http://37.220.108.122:20000/4 
+
+#EXTINF:-1,303-BBC Three 
+http://37.220.108.122:20000/5 
+
+#EXTINF:-1,304-BBC NEWS 
+http://37.220.108.122:20000/6 
+
+#EXTINF:-1,305-BBC NEWSLINE 
+http://37.220.108.122:20000/7
 
 
 
