@@ -93,7 +93,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="PORTUGAL",034-Historia
-rtmp://vidict-liveflash:1935/stream/_definst_/historiab playpath=Vhistoriab?id=21918&pk=765d6eeebe8a619ee25d6adb374207ec9a74073dee4307dd9cc54a03c819434e swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer pageUrl=http://www.liveflashplayer.net/embedplayer/historiab/1/580/480 swfVfy=1 live=1 timeout=15
+rtmp://vidict-liveflash:1935/stream/_definst_/historiab playpath=Vhistoriab?id=21918&pk=765d6eeebe8a619ee25d6adb374207ec9a74073dee4307dd9cc54a03c819434e swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer pageUrl=http://www.liveflashplayer.net/embedplayer/historiab/1/580/480
 
 #EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="PORTUGAL",035-Abola TV 
 
