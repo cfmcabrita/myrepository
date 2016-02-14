@@ -93,7 +93,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="PORTUGAL",034-Historia
-rtmp://freepush:1935/live/_definst_/hk3kbfscxwo1hmj playpath=hk3kbfscxwo1hmj swfUrl=http://www.streamlive.to/ads/streamlive pageUrl=http://www.streamlive.to/view/57487/Canal_Historia_(Portugal)  swfVfy=1 live=1 timeout=15
+rtmp://206.190.130.12/stream play=Vhistoriab?id=21918&pk=765d6eeebe8a619ee25d6adb374207ec9a74073dee4307dd9cc54a03c819434e swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer pageUrl=http://www.liveflashplayer.net/resources/scripts/fplayer  swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="PORTUGAL",035-Abola TV 
 
