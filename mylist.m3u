@@ -93,7 +93,7 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="Historia.png" group-title="PORTUGAL",034-Historia
-rtmp://watch7.streamlive.to:1935/edge/_definst_/?xs=_we_aGsza2Jmc2N4d28xaG1qfDE0NTU1MTUzOTd8ODEuMTA3LjI0NS4zMHw1Nm.MwYmU0NWFjZmJhfGE0N2YyZDcyNGY5Nzk2ZjQxZThlMjg3ZGNjNmFmOWQ1NzljMjM4OWI playpath=hk3kbfscxwo1hmj swfUrl=http://www.streamlive.to/ads/streamlive pageUrl=http://www.streamlive.to/view/57487/Canal_Historia_(Portugal)
+rtmp://watch7.streamlive.to:1935/edge/_definst_/?xs=_we_aGsza2Jmc2N4d28xaG1qfDE0NTU1MTUzOTd8ODEuMTA3LjI0NS4zMHw1Nm.MwYmU0NWFjZmJhfGE0N2YyZDcyNGY5Nzk2ZjQxZThlMjg3ZGNjNmFmOWQ1NzljMjM4OWI playpath=hk3kbfscxwo1hmj swfUrl=http://www.streamlive.to/ads/streamlive pageUrl=http://www.streamlive.to/view/57487/Canal_Historia_(Portugal)  swfVfy=1 live=1 timeout=15
 
 #EXTINF:-1 tvg-id="Abola TV" tvg-logo="Abola TV.png" group-title="PORTUGAL",035-Abola TV 
 
